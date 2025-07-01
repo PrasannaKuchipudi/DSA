@@ -13,4 +13,4 @@ def searchInsert(arr,x):
 arr=[1,2,3,5]
 x=4
 result=searchInsert(arr,x)
-print(f"The insert position of {x} is at index",result)
+print(f"The insert position of {x} is at index",result) 
